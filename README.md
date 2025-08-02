@@ -1,3 +1,4 @@
+![Cover](images/cover.png)
 <img src="https://user-images.githubusercontent.com/harik-sap/your-image.jpg" alt="Marathon" width="100%" />
 
 # Hi, I'm Hari Kishan! 👋
